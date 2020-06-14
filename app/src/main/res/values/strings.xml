@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translations Editor</string>
+    
+    <string name="Hello_world">We can change the language form the phone setting</string>
+</resources>
